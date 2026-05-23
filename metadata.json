@@ -1,0 +1,6 @@
+{
+  "name": "CraveLab",
+  "description": "An artisanal digital storefront for luxury freshly-baked goods, pastries, gourmet sourdough bread, and interactive lab experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
